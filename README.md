@@ -2,7 +2,7 @@
 
 Code comprehension is a fundamental research field in software development, especially in the current context where Large Language Models (LLMs) are transforming programming practices by automatically generating code. 
 
-Through a systematic literature review, this work addresses four central questions: (1) What are the most effective strategies for teaching code comprehension? (2) What methods are used to assess this skill? (3) What tools support this process? (4) What challenges do students face? The used methodology used integrates an AI-powered tool to analyze more than 18,000 articles, resulting in a selection of 47 relevant studies.
+Through a systematic literature review, this work addresses four central questions: (1) What are the most effective strategies for teaching code comprehension? (2) What methods are used to assess this skill? (3) What tools support this process? (4) What challenges do students face? The methodology used integrates an AI-powered tool to analyze more than 18,000 articles, resulting in a selection of 47 relevant studies.
 
 The reviewed studies highlight the importance of adopting teaching strategies that help students build solid mental models before they begin writing code. Tools that incorporate such instructional strategies are essential to personalize learning and overcome the challenges faced by novice programmers. Evaluation methods are also evolving, moving beyond traditional assessments to include interactive and formative approaches.
 
@@ -121,3 +121,6 @@ This study makes several key contributions to the understanding of code comprehe
 - <b>Assessment Methods</b>: It reviews and compares different methods to evaluate code comprehension objectively, highlighting the benefits of combining multiple approaches for a more comprehensive assessment.
 - <b>Subjective Factors</b>: It draws attention to important but often overlooked factors—such as motivation, emotional state, and social influences—that impact students' ability to understand code.
 - <b>Future Directions</b>: It suggests the need for future research to bridge the gap between theory and classroom practice by integrating subjective factors with effective methodologies and emerging technologies (IA).
+
+
+`Further details will be made available in this software repository upon acceptance of the corresponding paper.`
